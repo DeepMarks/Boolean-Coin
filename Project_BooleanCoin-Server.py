@@ -17,7 +17,10 @@ class Block:
 
   def hash_block(self):
     sha = hasher.sha256()
-    sha.update(str(self.index).encode('utf-8') + str(self.timestamp).encode('utf-8') + str(self.data).encode('utf-8') + str(self.previous_hash).encode('utf-8'))
+    sha.update(str(self.index).encode('utf-8') + 
+               str(self.timestamp).encode('utf-8') + 
+               str(self.data).encode('utf-8') + 
+               str(self.previous_hash).encode('utf-8'))    
     return sha.hexdigest()
 
 # Generate genesis block
