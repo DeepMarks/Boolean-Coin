@@ -3,18 +3,28 @@
 
 
 Noah Mamié (17-607-714)
+
 Neel Nathan (17-602-210)
+
 Ruhika Singh (17-613-381)
 Lars Egger (17-603-903)
+
 Nga Hangi Lin (18-600-999)
+
 Simon Schmidlin (17-604-489)
 
+
 Programming: Introduction Level
+
 HS18 - 3,793,1.00
+
 December 21, 2018
 
+
 Mario Silic
+
 The Booleans
+
 Python
 
 
