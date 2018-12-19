@@ -1,4 +1,4 @@
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBjderhKzfAhUOaFAKHSM3DLUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.hsgcareer.ch%2F&psig=AOvVaw0Ji9jrByj-5dM6Vwbf_rRN&ust=1545313715611474)
+![alt text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBjderhKzfAhUOaFAKHSM3DLUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.hsgcareer.ch%2F&psig=AOvVaw0Ji9jrByj-5dM6Vwbf_rRN&ust=1545313715611474.png)
 
 # Programming Project 10: Blockchain *Manual*
 
