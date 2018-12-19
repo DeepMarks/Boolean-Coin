@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/TheTrueMrbequiet/Boolean-Coin/blob/master/HSG%20Logo.jpg)
 
 # Programming Project 10: Blockchain *Manual*
 
