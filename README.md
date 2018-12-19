@@ -1,30 +1,18 @@
 # Programming Project 10: Blockchain *Manual*
 
-
-
-Noah Mamié (17-607-714)
-
-Neel Nathan (17-602-210)
-
-Ruhika Singh (17-613-381)
-Lars Egger (17-603-903)
-
-Nga Hangi Lin (18-600-999)
-
+Noah Mamié (17-607-714) <br />
+Neel Nathan (17-602-210) <br />
+Ruhika Singh (17-613-381) <br />
+Lars Egger (17-603-903) <br />
+Nga Hangi Lin (18-600-999) <br />
 Simon Schmidlin (17-604-489)
 
-
-Programming: Introduction Level
-
-HS18 - 3,793,1.00
-
+Programming: Introduction Level <br />
+HS18 - 3,793,1.00 <br />
 December 21, 2018
 
-
-Mario Silic
-
-The Booleans
-
+Mario Silic <br />
+The Booleans <br />
 Python
 
 
@@ -69,3 +57,24 @@ curl "localhost:5000/txion" \
 
 2. Mine a new block.
 curl localhost:5000/mine
+
+
+## Bibliography 
+
+1. https://www.mckinsey.com/industries/high-tech/our-insights/how-blockchains-could-change-the-world 
+
+2. https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
+
+3. https://blockgeeks.com/guides/what-is-hashing/
+
+4. https://docs.python.org/2/library/hashlib.html
+
+5. Marr, B. (2018). 23 Fascinating Bitcoin And Blockchain Quotes Everyone Should Read. Retrieved from https://www.forbes.com/sites/bernardmarr/2018/08/15/23-fascinating-bitcoin-and-blockchain-quotes-everyone-should-read/#2b6636957e8a
+
+6. Hooper, M. (2018). Top five blockchain benefits transforming your industry. Retrieved from https://www.ibm.com/blogs/blockchain/2018/02/top-five-blockchain-benefits-transforming-your-industry/
+
+7. van Flymen, D. (2017). Learn Blockchains by Building One. Retrieved from https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
+8. Blockgeeks Inc. (n.d.) What Is Hashing? Under The Hood Of Blockchain. Retrieved from https://blockgeeks.com/guides/what-is-hashing/
+
+9. Nash, G. (2017). Let’s Build the Tiniest Blockchain. Retrieved from https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
