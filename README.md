@@ -1,6 +1,9 @@
-<p align="center">
 ![alt text](https://github.com/TheTrueMrbequiet/Boolean-Coin/blob/master/HSG%20Logo.jpg)
-</p>
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
 
 # Programming Project 10: Blockchain *Manual*
 
