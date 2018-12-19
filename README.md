@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 # Programming Project 10: Blockchain *Manual*
 
 <p align="center">
