@@ -1,5 +1,6 @@
 # Programming Project 10: Blockchain *Manual*
 
+<p align="center">
 Noah Mamié (17-607-714) <br />
 Neel Nathan (17-602-210) <br />
 Ruhika Singh (17-613-381) <br />
@@ -14,6 +15,7 @@ December 21, 2018
 Mario Silic <br />
 The Booleans <br />
 Python
+</p>
 
 
 ## Introduction
@@ -50,12 +52,12 @@ Having defined the structure of a general block, the blockchain blueprint contin
 
 Finally, the last part of our code has the function of transforming our blockchain into a decentralized server, that enables us to form a network for the Boolean Coin (@node.route). Furthermore, this network automatically keeps each note updated, as it is important that every user’s blockchain is identical to the longest one. After running the full Boolean Coin server code, the following commands need to be run in the terminal (cURL needs to be installed):
 
-1. Create a transaction.
+**1. Create a transaction.** <br />
 curl "localhost:5000/txion" \
      -H "Content-Type: application/json" \
      -d '{"from": "akjflw", "to":"fjlakdj", "amount": 3}'
 
-2. Mine a new block.
+**2. Mine a new block.** <br />
 curl localhost:5000/mine
 
 
