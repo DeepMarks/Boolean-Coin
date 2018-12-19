@@ -1,4 +1,6 @@
-![alt text](https://github.com/TheTrueMrbequiet/Boolean-Coin/blob/master/HSG%20Logo.jpg)
+<p align="center"> 
+<img src="https://github.com/TheTrueMrbequiet/Boolean-Coin/blob/master/HSG%20Logo.jpg">
+</p>
 
 img[src$="centerme"] {
   display:block;
