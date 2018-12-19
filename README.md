@@ -1,3 +1,5 @@
+![alt text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBjderhKzfAhUOaFAKHSM3DLUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.hsgcareer.ch%2F&psig=AOvVaw0Ji9jrByj-5dM6Vwbf_rRN&ust=1545313715611474)
+
 # Programming Project 10: Blockchain *Manual*
 
 <p align="center">
@@ -7,11 +9,15 @@ Ruhika Singh (17-613-381) <br />
 Lars Egger (17-603-903) <br />
 Nga Hangi Lin (18-600-999) <br />
 Simon Schmidlin (17-604-489)
+</p>
 
+<p align="center">
 Programming: Introduction Level <br />
 HS18 - 3,793,1.00 <br />
 December 21, 2018
+</p>
 
+<p align="center">
 Mario Silic <br />
 The Booleans <br />
 Python
