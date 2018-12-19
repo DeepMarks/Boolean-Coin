@@ -3,7 +3,7 @@
 </p>
 <br />
 
-# Programming Project 10: Blockchain *Manual* {style=text-align:center}
+   # Programming Project 10: Blockchain *Manual*
 
 <br />
 
