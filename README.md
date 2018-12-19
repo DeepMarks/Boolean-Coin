@@ -73,6 +73,9 @@ curl "localhost:5000/txion" \
 
 **2. Mine a new block.** <br />
 curl localhost:5000/mine
+<br />
+
+Overall, we feel that we have learned a lot from this experience and hope to be able to transfer some of the knowledge gained to future projects.
 
 
 ## Bibliography 
@@ -94,6 +97,3 @@ curl localhost:5000/mine
 8. Blockgeeks Inc. (n.d.) What Is Hashing? Under The Hood Of Blockchain. Retrieved from https://blockgeeks.com/guides/what-is-hashing/
 
 9. Nash, G. (2017). Let’s Build the Tiniest Blockchain. Retrieved from https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
-<br />
-
-Overall, we feel that we have learned a lot from this experience and hope to be able to transfer some of the knowledge gained to future projects.
