@@ -3,7 +3,7 @@
 </p>
 <br />
 
-<h1 style="text-align: center;" markdown="1">Programming Project 10: Blockchain *Manual*</h1>
+<h1 style="text-align: center;" markdown="1">Programming Project 10: Blockchain Manual</h1>
 
 <br />
 
