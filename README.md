@@ -40,7 +40,7 @@ In order to provide insight into our code and the work process behind it, this m
 
 Lastly, it is important to mention that our project is written in Python. We have chosen to focus on a Python project due to the simplicity and wide use of the language, given most of us were new to coding.
 
-## Blockchain in theory
+## Blockchain in Theory
 
 This part of the manual focuses on the fundamentals of blockchain structures. The aim is to explain  how a blockchain works and is constructed in plain English, so that the code may be easier to follow. 
 
