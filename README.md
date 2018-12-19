@@ -2,7 +2,9 @@
 <img src="https://github.com/TheTrueMrbequiet/Boolean-Coin/blob/master/HSG%20Logo.jpg">
 </p>
 
+
 # Programming Project 10: Blockchain *Manual*
+
 
 <p align="center">
 Noah Mamié (17-607-714) <br />
@@ -24,6 +26,7 @@ Mario Silic <br />
 The Booleans <br />
 Python
 </p>
+
 
 
 ## Introduction
