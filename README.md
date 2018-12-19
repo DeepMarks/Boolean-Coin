@@ -76,6 +76,7 @@ curl "localhost:5000/txion" \
 **2. Mine a new block.** <br />
 curl localhost:5000/mine
 <br />
+<br />
 
 Overall, we feel that we have learned a lot from this experience and hope to be able to transfer some of the knowledge gained to future projects.
 
